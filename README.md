@@ -3,7 +3,7 @@
 ## Description
 
 Unicode version 5.1 provides the characters to represent the tones of Lahu (and
-Ahka). They are currently:
+Akha). They are currently:
 
 ```
 / ˉ /   high rising     U+02C9 MODIFIER LETTER MACRON
@@ -37,3 +37,7 @@ two Shift keys. The scroll lock indicator is used to indicate a non-default map.
 The low tone marks are on the keys for '[', ']', and '\' and the high marks are
 on '{', '}' and '|' (Shift'ed keys of low tones). The original characters can be
 obtained by using the Ctrl key in as well.
+
+## License
+
+See LICENSE file.
